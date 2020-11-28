@@ -28,7 +28,7 @@ body {
 .instagram-phone {
     display: flex;
     align-items: center;
-    justify-content:center;
+    justify-content: center;
     width: 50%;
 }
 
@@ -36,7 +36,7 @@ body {
     height: 50rem;
 }
 
-instagram-continue {
+.instagram-continue {
     display: flex;
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
